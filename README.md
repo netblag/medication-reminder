@@ -17,7 +17,7 @@
 # Darooyar
 
 <p align="center">
-  <img src="icon.png" alt="Darooyar" width="120">
+  <img src="img/icon.png" alt="Darooyar" width="120">
 </p>
 
 <p align="center">
